@@ -1,1 +1,1 @@
-In which the user of this repository reads the README document, and finds that it's ultimately of no use to the reader, the administrator, or anyone of note or merit.
+This is the introductory practice session for user PatrickPitts on GitHub. Through this exercise, the user becomes familiar with the basic functionalities of GitHub.
